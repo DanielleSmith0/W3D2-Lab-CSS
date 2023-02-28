@@ -1,0 +1,42 @@
+body{
+    margin: 20px;
+}
+
+header{
+    height: 180px;
+    border: 5px solid black;
+    padding: 10px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.box {
+    margin-right: 40px;
+}
+
+.purple {
+    height: 140px;
+    width: 40px;
+    background-color: #8A2BE2;
+}
+
+.green {
+    height: 180px;
+    width: 450px;
+    background-color: #238B21;
+}
+
+.circle{
+    height: 180px;
+    width: 180px;
+    border-radius: 60%;
+    background-color: #87CEEB;
+}
+
+.middle{}
+
+.yellow-box{}
+
+.greeting-card{}
+
+h1{}
